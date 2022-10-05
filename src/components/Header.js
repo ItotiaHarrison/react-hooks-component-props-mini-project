@@ -8,5 +8,4 @@ function Header(name) {
     );
 }
 
-
-export default Headers;
+export default Header;
